@@ -53,7 +53,7 @@
   },
   "main": "index.js",
   "directories": {
-    "test": "mocha --compilers js:babel/register --recursive"
+    "test": "test"
   },
   "repository": {
     "type": "git",
