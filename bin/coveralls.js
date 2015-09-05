@@ -1,6 +1,5 @@
 #!/usr/bin/env node
 var handleInput = require('../lib/handleInput');
-var logger = require('../lib/logger');
 
 
 process.stdin.resume();
