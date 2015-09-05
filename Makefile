@@ -2,7 +2,7 @@ REPORTER = spec
 test:
 	@$(MAKE) lint
 	@echo TRAVIS_JOB_ID $(TRAVIS_JOB_ID)
-	@NODE_ENV=test ./node_modules/.bin/mocha -b --reporter $(REPORTER)
+	@NODE_ENV=test ./node_modules/.bin/mocha --compilers js:babel/register --recursive -b --reporter $(REPORTER)
 
 lint:
 	./node_modules/.bin/jshint ./lib ./test ./index.js
