@@ -1,6 +1,8 @@
 #node-coveralls
 
-[![Build Status](https://travis-ci.org/syarul/node-coveralls.svg)](https://travis-ci.org/syarul/node-coveralls) [![Coverage Status](https://coveralls.io/repos/syarul/node-coveralls/badge.svg?branch=master&service=github)](https://coveralls.io/github/syarul/node-coveralls?branch=master) [ ![Codeship Status for syarul/node-coveralls](https://codeship.com/projects/bd756090-35ec-0133-db69-2ad56f320ece/status?branch=master)](https://codeship.com/projects/100849)
+[![Build Status](https://travis-ci.org/syarul/node-coveralls.svg)](https://travis-ci.org/syarul/node-coveralls) 
+[![Coverage Status](https://coveralls.io/repos/syarul/node-coveralls/badge.svg?branch=master&service=github)](https://coveralls.io/github/syarul/node-coveralls?branch=master) 
+[ ![Codeship Status for syarul/node-coveralls](https://codeship.com/projects/bd756090-35ec-0133-db69-2ad56f320ece/status?branch=master)](https://codeship.com/projects/100849)
 
 [Coveralls.io](https://coveralls.io/) support for node.js.  Get the great coverage reporting of coveralls.io and add a cool coverage button ( like the one above ) to your README.
 
