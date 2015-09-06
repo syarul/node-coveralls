@@ -10,7 +10,7 @@
     "url": "https://github.com/nickmerwin/node-coveralls/issues"
   },
   "scripts": {
-    "test": "mocha --compilers js:babel/register --recursive -b --reporter spec"
+    "test": "make test"
   },
   "bin": {
     "coveralls": "./bin/coveralls.js"
